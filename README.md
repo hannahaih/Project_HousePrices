@@ -5,7 +5,9 @@ IronhackBootcampProject
 #### Ironhack_Project
 https://github.com/ironhack-datalabs/data-ber-08-20/tree/master/Projects/module-2_projects/01_statistical-analysis-project
 
-## CONTENTS:
+
+
+### CONTENTS OF THIS REPO
 
 ### 1. main_notebook = summary and overview:
 #### statistical-analysis.ipynb
