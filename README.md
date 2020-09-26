@@ -1,8 +1,12 @@
-## PROJECT
 Hannah Reber
+
+## PROJECT
+
 IronhackBootcampProject
 
-## HousePrices
+
+# HousePrices
+
 #### Ironhack_Project
 https://github.com/ironhack-datalabs/data-ber-08-20/tree/master/Projects/module-2_projects/01_statistical-analysis-project
 
