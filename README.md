@@ -1,33 +1,39 @@
 
-## PROJECT
+## __PROJECT__
 
-### IronhackBootcampProject
-
-
-
-Hannah Reber
-Ironhack Data Science Bootcamp Berlin 08/20
+### Ironhack_Bootcamp_Project 
 
 
 
-# HousePrices
-## Data Analysis
+Hannah_Reber
+_Ironhack_Data_Science_Bootcamp_Berlin_08_20_
+
+
+
+
+# _House_Prices_
+
+## Statistical_Analysis
+
 
 #### Ironhack_Project
 https://github.com/ironhack-datalabs/data-ber-08-20/tree/master/Projects/module-2_projects/01_statistical-analysis-project
 
 
 
-### CONTENTS OF THIS REPO
+### Contents_of_this_Repo
 
-### 1. main_notebook = summary and overview:
- statistical-analysis.ipynb
+### 1/ _main_notebook_=_summary_+_overview_
+ _main_notebook_ = statistical-analysis.ipynb
 
-### 2. files g1-9:
- png images, generated in sub notebooks and integrated in statistical-analysis.ipynb
 
-### 3. data folder:
- input and process data
+### 2/ _files_g1:9_
+ _png_images_generated_in_sub_notebooks_and_integrated_in_main_notebook_ = statistical-analysis.ipynb
 
-### 4. subs folder:
- all sub notebook with analysis steps in detail
+
+### 3/ _data_folder_
+ _input_and_output_csv_ = data
+
+
+### 4/ _subs_folder_
+ _all_sub notebooks_with_detailed_analysis_steps_ = subs
