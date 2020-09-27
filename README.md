@@ -20,19 +20,16 @@ https://github.com/ironhack-datalabs/data-ber-08-20/tree/master/Projects/module-
 
 
 
-### Contents_of_this_Repo
+### _Contents_of_this_Repo_
 
-### 1/ _main_notebook_=_summary_+_overview_
+#### 1/ _main_notebook_=_summary_+_overview_
  _main_notebook_ = statistical-analysis.ipynb
 
-
-### 2/ _files_g1:9_
+#### 2/ _files_g1:9_
  _png_images_generated_in_sub_notebooks_and_integrated_in_main_notebook_ = statistical-analysis.ipynb
 
-
-### 3/ _data_folder_
+#### 3/ _data_folder_
  _input_and_output_csv_ = data
 
-
-### 4/ _subs_folder_
+#### 4/ _subs_folder_
  _all_sub notebooks_with_detailed_analysis_steps_ = subs
