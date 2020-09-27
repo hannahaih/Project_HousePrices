@@ -11,9 +11,8 @@ _Ironhack_Data_Science_Bootcamp_Berlin_08_20_
 
 
 
-# _House_Prices_
-
-## Statistical_Analysis
+# House_Prices
+## _Statistical_Analysis_
 
 
 #### Ironhack_Project
