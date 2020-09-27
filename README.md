@@ -4,11 +4,14 @@
 ### IronhackBootcampProject
 
 
+
 Hannah Reber
+Ironhack Data Science Bootcamp Berlin 08/20
 
 
 
 # HousePrices
+## Data Analysis
 
 #### Ironhack_Project
 https://github.com/ironhack-datalabs/data-ber-08-20/tree/master/Projects/module-2_projects/01_statistical-analysis-project
